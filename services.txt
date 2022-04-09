@@ -1,0 +1,4 @@
+bluetooth.service
+fstrim.timer
+systemd-timesyncd.service
+gdm.service
