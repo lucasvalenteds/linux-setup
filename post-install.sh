@@ -31,6 +31,9 @@ configure_gnome() {
   gsettings set org.gnome.gedit.preferences.editor editor-font "Monospace 12"
   gsettings set org.gnome.gedit.preferences.editor use-default-font false
   gsettings set org.gnome.gedit.preferences.editor tabs-size "uint32 4"
+
+  # Configure Nautilus to show directories before files
+  gsettings set org.gtk.Settings.FileChooser sort-directories-first
 }
 
 enable_services
