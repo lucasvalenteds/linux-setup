@@ -27,6 +27,7 @@ ripgrep
 rust
 rustup
 tealdeer
+unrar
 vim
 vlc
 xclip
