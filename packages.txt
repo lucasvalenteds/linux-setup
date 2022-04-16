@@ -14,8 +14,8 @@ gradle
 inkscape
 intellij-idea-community-edition
 jdk-openjdk
-jdk17-openjdk
 jdk11-openjdk
+jdk17-openjdk
 jdk8-openjdk
 jq
 maven
@@ -26,6 +26,7 @@ ntfs-3g
 power-profiles-daemon
 ripgrep
 rust
+rust-analyzer
 rustup
 tealdeer
 unrar
