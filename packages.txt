@@ -2,6 +2,7 @@ bash-completion
 blueman
 bluez
 cargo
+ffmpegthumbnailer
 firefox
 fzf
 gimp
@@ -29,6 +30,7 @@ rust
 rust-analyzer
 rustup
 tealdeer
+tumbler
 unrar
 vim
 vlc
