@@ -30,6 +30,7 @@ rust
 rust-analyzer
 rustup
 tealdeer
+tokei
 tree
 tumbler
 unrar
