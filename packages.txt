@@ -30,6 +30,7 @@ rust
 rust-analyzer
 rustup
 tealdeer
+tree
 tumbler
 unrar
 vim
