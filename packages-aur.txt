@@ -1,2 +1,3 @@
-shfmt-bin
+java-openjdk-ea-bin
 shellcheck-bin
+shfmt-bin
