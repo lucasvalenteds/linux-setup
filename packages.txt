@@ -1,4 +1,5 @@
 bash-completion
+bat
 blueman
 bluez
 cargo
