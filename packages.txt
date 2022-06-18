@@ -31,6 +31,8 @@ rust
 rust-analyzer
 rustup
 tealdeer
+texlive-core
+texlive-most
 tokei
 tree
 tumbler
