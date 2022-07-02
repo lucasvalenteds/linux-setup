@@ -3,6 +3,8 @@ bat
 blueman
 bluez
 cargo
+docker
+docker-compose
 ffmpegthumbnailer
 firefox
 fzf
@@ -13,6 +15,7 @@ gnome
 gnome-power-manager
 gnupg
 gradle
+helm
 inkscape
 intellij-idea-community-edition
 jdk-openjdk
@@ -20,11 +23,14 @@ jdk11-openjdk
 jdk17-openjdk
 jdk8-openjdk
 jq
+kubectl
 maven
+minikube
 newsflash
 nodejs
 npm
 ntfs-3g
+podman
 power-profiles-daemon
 ripgrep
 rust
