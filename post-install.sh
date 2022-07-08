@@ -15,6 +15,9 @@ configure_gnome() {
   # Enable minimize and maximize window buttons
   gsettings set org.gnome.desktop.wm.preferences button-layout ":minimize,maximize,close"
 
+  # Show seconds in top bar clock
+  gsettings set org.gnome.desktop.interface clock-show-seconds true
+
   # Enable touchpad tap-to-click
   gsettings set org.gnome.desktop.peripherals.touchpad tap-to-click true
 
